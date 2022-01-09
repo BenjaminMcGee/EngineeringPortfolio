@@ -1,6 +1,8 @@
 This folder contains the 3D models I designed and
 printed when creating a machine that sorts M&M's
-by color. I created this machine entirely 
+by color. When exporting the files from Fusion 360 
+(where they were origionally created), the files 
+were all rotated. I created this machine entirely 
 independently, only externally assisted by the 
 documentation of the products I used.
 Asside from 3D printed parts, the machine included
@@ -17,5 +19,6 @@ into the other slot. The machine had an accuracy
 in excess of 97%. There was a video displaying
 the machine in use on youtube, but unfortunately,
 the video was taken down and no longer exists. 
-Due to this, I included two low-quality images of 
-the machine while its design was being finalized.
+Due to this, I included two unprofessional images of 
+the machine while its design and construction were 
+being finalized.
