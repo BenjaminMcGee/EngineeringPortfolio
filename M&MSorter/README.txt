@@ -1,7 +1,7 @@
 This folder contains the 3D models I designed and
 printed when creating a machine that sorts M&M's
 by color. When exporting the files from Fusion 360 
-(where they were origionally created), the files 
+(where they were originally created), the files 
 were all rotated. I created this machine entirely 
 independently, only externally assisted by the 
 documentation of the products I used.
