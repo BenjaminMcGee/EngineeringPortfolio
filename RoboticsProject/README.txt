@@ -19,8 +19,8 @@ After redesigning and rebuilding the robot, I had solved
 all of these problems. As shown, the robot now runs smoothly.
 
 "RobotOverview" is a shot that shows the overall 
-shape of the robot.
+shape of the original prototype of the robot.
 
 "FollowTest" is a demonstration of the robot 
-following me, and shows that the robot is now perfectly 
+following me, and shows that the prototype robot is now perfectly 
 stable and level.
