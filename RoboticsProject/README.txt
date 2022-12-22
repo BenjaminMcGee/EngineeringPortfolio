@@ -1,11 +1,11 @@
 This folder contains two videos of the robot I
 have been working on in the research department of the 
-Advanced Technology Research Center. I was responsible 
+Advanced Technology Research Center. It also contains folders 
+with the progress that has been made since. I was responsible 
 for redesigning and rebuilding the entire physical 
-structure of the robot. If it can be touched, I put it 
-there. (This is because I am the mechanical engineering 
-student in an electrical engineering lab, and I am working
-on a team of 2 people) 
+structure of the robot. (This is because I am the only mechanical 
+engineering student in an electrical engineering lab, and I 
+am working on a team of 4 people) 
 
 This drastic redesign was necesary because the robot was 
 originally wobbly and unstable, and would flex in the center,
